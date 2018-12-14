@@ -85,3 +85,16 @@
   border-bottom: 3px solid #393653;
   display: inline-block;
 }
+
+.whatCanIDo-container {
+  background-color: #393653;
+}
+
+.whatCanIDo-title {
+  font-weight: bold;
+  width: auto;
+  margin: 0 auto;
+  font-size: 18px;
+  border-bottom: 3px solid #2c2a46;
+  display: inline-block;
+}

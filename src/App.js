@@ -4,6 +4,7 @@ import Navbar from "./components/navbar";
 import Introduction from "./components/introduction";
 import WhoAmI from "./components/WhoAmI";
 import ToolsOfTrade from "./components/toolsOfTrade";
+import WhatCanIDo from "./components/whatCanIDo";
 
 class App extends Component {
   render() {
@@ -13,6 +14,7 @@ class App extends Component {
         <Introduction />
         <WhoAmI />
         <ToolsOfTrade />
+        <WhatCanIDo />
       </div>
     );
   }
