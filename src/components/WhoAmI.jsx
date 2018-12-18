@@ -13,7 +13,8 @@ class WhoAmI extends Component {
               A Full Stack Web Developer and recent graduate of the UCF Coding
               Bootcamp with a passion for web development. I create beautiful
               and awesome web applications utilizing the M.E.R.N Stack. I Eat,
-              Breathe, Sleep coding and JavaScript is my second language.
+              Breathe, Sleep coding and JavaScript is like a second language to
+              me.
             </p>
           </div>
         </div>

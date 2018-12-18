@@ -5,6 +5,9 @@ import Introduction from "./components/introduction";
 import WhoAmI from "./components/WhoAmI";
 import ToolsOfTrade from "./components/toolsOfTrade";
 import WhatCanIDo from "./components/whatCanIDo";
+import Projects from "./components/projects";
+import HireMe from "./components/hireMe";
+import Footer from "./components/footer";
 
 class App extends Component {
   render() {
@@ -15,6 +18,9 @@ class App extends Component {
         <WhoAmI />
         <ToolsOfTrade />
         <WhatCanIDo />
+        <Projects />
+        <HireMe />
+        <Footer />
       </div>
     );
   }

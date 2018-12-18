@@ -13,7 +13,7 @@ class WhatCanIDo extends Component {
               <p className="whatCanIDo-title mt-3">Develop Whatever You Need</p>
               <p className="whatCanIDo-title mb-2">And Solve Your Problem</p>
               <br />
-              <img src={"https://via.placeholder.com/150"} alt="" />
+              <img src={require("../assets/images/internet.png")} alt="" />
               <p>
                 My brain functions in a problem solving fashion. I can create
                 solutions to your most complicated web development needs!
@@ -21,25 +21,37 @@ class WhatCanIDo extends Component {
             </div>
             <div className="align-center">
               <p className="whatCanIDo-title mt-2 mb-2">
-                Design Great Looking Sites
+                Create and Design On The Front End
               </p>
               <br />
-              <img src={"https://via.placeholder.com/150"} alt="" />
+              <img
+                className="skillsImg"
+                src={require("../assets/images/web-design.png")}
+                alt=""
+              />
+              <img
+                className="skillsImg"
+                src={require("../assets/images/thumbs-up.png")}
+                alt=""
+              />
+              <img
+                className="skillsImg"
+                src={require("../assets/images/responsive.png")}
+                alt=""
+              />
               <p>
-                I utilize React and Bootstrap to create modern looking sites
-                with user friendly UI and site layouts!
+                I utilize React and Bootstrap to create modern looking and
+                responsive sites with user friendly UI and site layouts!
               </p>
             </div>
             <div className="align-center">
               <p className="whatCanIDo-title mt-2 ">
-                Develop Dynamic, Fast Web
+                Create And Manage The Back End
               </p>
-              <p className="whatCanIDo-title mt-2 ">
-                Applications Using The Latest
-              </p>
-              <p className="whatCanIDo-title mt-2 mb-2">Technologies</p>
               <br />
-              <img src={"https://via.placeholder.com/150"} alt="" />
+              <img src={require("../assets/images/shield.png")} alt="" />
+              <img src={require("../assets/images/server.png")} alt="" />
+              <img src={require("../assets/images/database.png")} alt="" />
               <p>
                 Utilizing the M.E.R.N Stack, I can create full-stack web
                 applications. From static sites to applications with databases
