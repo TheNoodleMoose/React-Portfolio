@@ -18,6 +18,22 @@
   white-space: nowrap;
 }
 
+.nav-link {
+  color: #a1a1a1;
+  font-weight: bold;
+  font-size: 15px;
+  -webkit-transition: color 1s, font-size 1s;
+  -moz-transition: color 1s, font-size 1s;
+  -o-transition: color 1s, font-size 1s;
+  transition: color 1s, font-size 1s;
+}
+
+.nav-link:hover {
+  color: #ff742c;
+  font-weight: bold;
+  font-size: 17px;
+}
+
 .container-whoAmI {
   background-color: #2c2a46;
 }
@@ -29,11 +45,6 @@
   font-weight: bold;
   border-bottom: 3px solid #393653;
   display: inline-block;
-}
-
-.nav-link {
-  font-size: 16px;
-  color: #a1a1a1;
 }
 
 .portfolio-img {

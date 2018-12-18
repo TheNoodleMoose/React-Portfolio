@@ -46,7 +46,7 @@ class WhatCanIDo extends Component {
             </div>
             <div className="align-center">
               <p className="whatCanIDo-title mt-2 ">
-                Create And Manage The Back End
+                Deploy And Manage The Back End
               </p>
               <br />
               <img src={require("../assets/images/shield.png")} alt="" />

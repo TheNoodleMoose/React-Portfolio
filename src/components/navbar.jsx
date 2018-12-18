@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class Navbar extends Component {
   scrollToProjects = () => {
     setTimeout(function() {
-      window.scrollTo(0, 1600);
+      window.scrollTo(0, 1450);
     }, 2);
   };
 
@@ -32,7 +32,7 @@ class Navbar extends Component {
                     src={
                       "https://media.licdn.com/dms/image/C4D03AQFR2MIHId3Pxg/profile-displayphoto-shrink_100_100/0?e=1550102400&v=beta&t=gTbA3I5HUZlbxxsS77Y2IhT7gl_4wGM5AXYgg1mT41Q"
                     }
-                    alt="portfolio-picture"
+                    alt="portfolio"
                   />
                 </div>
 
