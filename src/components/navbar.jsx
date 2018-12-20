@@ -9,7 +9,7 @@ class Navbar extends Component {
 
   scrollToAboutMe = () => {
     setTimeout(() => {
-      window.scrollTo(0, 300);
+      window.scrollTo(0, 350);
     }, 2);
   };
 
