@@ -215,6 +215,11 @@
     border-radius: 10px;
   }
 
+  .skillsImg {
+    width: 150px;
+    height: 150px;
+  }
+
   .footer {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;

@@ -13,7 +13,11 @@ class WhatCanIDo extends Component {
               <p className="whatCanIDo-title mt-3">Develop Whatever You Need</p>
               <p className="whatCanIDo-title mb-2">And Solve Your Problem</p>
               <br />
-              <img src={require("../assets/images/internet.png")} alt="" />
+              <img
+                className="skillsImg"
+                src={require("../assets/images/internet.png")}
+                alt=""
+              />
               <p>
                 My brain functions in a problem solving fashion. I can create
                 solutions to your most complicated web development needs!
@@ -49,9 +53,21 @@ class WhatCanIDo extends Component {
                 Deploy And Manage The Back End
               </p>
               <br />
-              <img src={require("../assets/images/shield.png")} alt="" />
-              <img src={require("../assets/images/server.png")} alt="" />
-              <img src={require("../assets/images/database.png")} alt="" />
+              <img
+                className="skillsImg"
+                src={require("../assets/images/shield.png")}
+                alt=""
+              />
+              <img
+                className="skillsImg"
+                src={require("../assets/images/server.png")}
+                alt=""
+              />
+              <img
+                className="skillsImg"
+                src={require("../assets/images/database.png")}
+                alt=""
+              />
               <p>
                 Utilizing the M.E.R.N Stack, I can create full-stack web
                 applications. From static sites to applications with databases
