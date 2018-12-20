@@ -5,7 +5,7 @@
 #root {
   width: 100%;
   background-color: #393653;
-  color: #efddfd;
+  color: #f7eeff;
 }
 
 .container {
@@ -19,7 +19,7 @@
 }
 
 .nav-link {
-  color: #a1a1a1;
+  color: #f7eeff;
   font-weight: bold;
   font-size: 15px;
   -webkit-transition: color 1s, font-size 1s;
@@ -29,7 +29,7 @@
 }
 
 .nav-link:hover {
-  color: #efddfd;
+  color: #f7eeff;
   font-weight: bold;
   font-size: 17px;
 }
@@ -61,12 +61,12 @@
   width: 85px;
   height: 75px;
   border-radius: 50%;
-  background-color: #efddfd;
+  background-color: #f7eeff;
 }
 
 .navbar-color {
   background-color: #393653;
-  color: #a1a1a1;
+  color: #f7eeff;
 }
 
 .mern-stack-img {
@@ -124,9 +124,9 @@
 }
 
 .projects-section {
-  background-color: #700cbc;
+  background-color: #6511a54b;
   border-radius: 10px;
-  color: #efddfd;
+  color: #f7eeff;
   font-weight: 600;
   padding-bottom: 10px;
   margin-bottom: 10px;
@@ -134,7 +134,7 @@
 
 .projects-section a {
   text-decoration: none;
-  color: #efddfd;
+  color: #f7eeff;
 }
 
 .markMeImage {
@@ -157,7 +157,7 @@
 
 .footer a {
   text-decoration: none;
-  color: #a1a1a1;
+  color: #f7eeff;
 }
 
 .skillsImg {
