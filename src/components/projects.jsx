@@ -5,7 +5,7 @@ class Projects extends Component {
     return (
       <div className="container projects-container">
         <div className="row">
-          <div className="col-12">
+          <div className="col-12 project-box">
             <div className="align-center">
               <p className="projects-title">Projects</p>
             </div>

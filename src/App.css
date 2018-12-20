@@ -164,3 +164,59 @@
   width: 75px;
   height: 75px;
 }
+
+@media (min-width: 1024px) {
+  #root {
+    font-size: 1.4em;
+  }
+  .WhoAmI-title {
+    width: auto;
+    margin: 0 auto;
+    font-size: 25px;
+    font-weight: bold;
+    border-bottom: 3px solid #393653;
+    display: inline-block;
+  }
+  .introduction-text {
+    margin-top: 10px;
+    font-size: 2em;
+  }
+  .mern-stack-img {
+    width: auto;
+    height: 300px;
+  }
+  .web-lang-img {
+    width: auto;
+    height: 100px;
+  }
+  .tools-container {
+    background-color: #2c2a46;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  .tools-title {
+    font-weight: bold;
+    width: auto;
+    margin: 0 auto;
+    font-size: 25px;
+    border-bottom: 3px solid #393653;
+    display: inline-block;
+  }
+  .whatCanIDo-title {
+    font-weight: bold;
+    width: auto;
+    margin: 0 auto;
+    font-size: 25px;
+    border-bottom: 3px solid #2c2a46;
+    display: inline-block;
+  }
+
+  .project-box {
+    border-radius: 10px;
+  }
+
+  .footer {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+}
