@@ -29,9 +29,7 @@ class Navbar extends Component {
                 <div className="portfolio-border">
                   <img
                     className="navbar-brand portfolio-img"
-                    src={
-                      "https://media.licdn.com/dms/image/C4D03AQFR2MIHId3Pxg/profile-displayphoto-shrink_100_100/0?e=1550102400&v=beta&t=gTbA3I5HUZlbxxsS77Y2IhT7gl_4wGM5AXYgg1mT41Q"
-                    }
+                    src={require("../assets/images/my_pic.jpg")}
                     alt="portfolio"
                   />
                 </div>
