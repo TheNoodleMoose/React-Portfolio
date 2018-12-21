@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class Navbar extends Component {
   scrollToProjects = () => {
     setTimeout(function() {
-      window.scrollTo(0, 1450);
+      window.scrollTo(0, 1600);
     }, 2);
   };
 

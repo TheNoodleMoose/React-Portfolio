@@ -14,7 +14,10 @@ class HireMe extends Component {
             </p>
             <p>
               <strong>
-                Email: <a href="mailto:cjh605@gmail.com">cjh605@gmail.com</a>
+                Email:{" "}
+                <a href="mailto:cjh605@gmail.com">
+                  christianhuffmanwork@gmail.com
+                </a>
               </strong>
             </p>
           </div>

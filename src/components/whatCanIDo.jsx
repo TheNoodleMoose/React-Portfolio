@@ -69,9 +69,10 @@ class WhatCanIDo extends Component {
                 alt=""
               />
               <p>
-                Utilizing the M.E.R.N Stack, I can create full-stack web
-                applications. From static sites to applications with databases
-                and complex requirements, I can handle them!
+                Utilizing the latest technologies, I can create full-stack web
+                applications to fit your needs. From static sites to
+                applications with databases and complex requirements, I can
+                handle them!
               </p>
             </div>
           </div>
