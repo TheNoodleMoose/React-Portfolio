@@ -7,14 +7,14 @@ class WhoAmI extends Component {
         <div className="row">
           <div className="col-12">
             <div className="align-center">
-              <p className="WhoAmI-title">Who The Heck Am I?</p>
+              <p className="WhoAmI-title">Who Am I</p>
             </div>
             <p>
               A Full Stack Web Developer and recent graduate of the UCF Coding
-              Bootcamp with a passion for web development. I create beautiful
-              and awesome web applications utilizing the M.E.R.N Stack. I Eat,
-              Breathe, Sleep coding and JavaScript is like a second language to
-              me.
+              Bootcamp with a passion for web development. Skillful in creating
+              beautiful and dyanmic web applications utilizing the M.E.R.N
+              Stack. I Eat, Breathe, Sleep coding and JavaScript is like a
+              second language to me.
             </p>
           </div>
         </div>
