@@ -6,8 +6,8 @@
 #root {
   width: 100%;
   font-family: "Thasadith", sans-serif;
-  background-color: #393653;
-  color: #f7eeff;
+  background-color: #102a43;
+  color: #d9e2ec;
 }
 
 .container {
@@ -21,7 +21,7 @@
 }
 
 .nav-link {
-  color: #f7eeff;
+  color: #f0f4f8;
   font-weight: bold;
   font-size: 15px;
   -webkit-transition: color 1s, font-size 1s;
@@ -31,13 +31,13 @@
 }
 
 .nav-link:hover {
-  color: #f7eeff;
+  color: #9fb3c8;
   font-weight: bold;
   font-size: 17px;
 }
 
 .container-whoAmI {
-  background-color: #2c2a46;
+  background-color: #243b53;
 }
 
 .WhoAmI-title {
@@ -45,7 +45,7 @@
   margin: 0 auto;
   font-size: 18px;
   font-weight: bold;
-  border-bottom: 3px solid #393653;
+  border-bottom: 3px solid #9fb3c8;
   display: inline-block;
 }
 
@@ -57,18 +57,18 @@
 }
 .headerNavbar {
   width: 100%;
-  border-bottom: 3px solid #2c2a46;
+  border-bottom: 3px solid #9fb3c8;
 }
 .portfolio-border {
   width: 85px;
   height: 75px;
   border-radius: 50%;
-  background-color: #f7eeff;
+  background-color: #9fb3c8;
 }
 
 .navbar-color {
-  background-color: #393653;
-  color: #f7eeff;
+  background-color: #102a43;
+  color: #9fb3c8;
 }
 
 .mern-stack-img {
@@ -87,7 +87,7 @@
 }
 
 .tools-container {
-  background-color: #2c2a46;
+  background-color: #243b53;
 }
 
 .tools-title {
@@ -95,12 +95,12 @@
   width: auto;
   margin: 0 auto;
   font-size: 18px;
-  border-bottom: 3px solid #393653;
+  border-bottom: 3px solid #9fb3c8;
   display: inline-block;
 }
 
 .whatCanIDo-container {
-  background-color: #393653;
+  background-color: #102a43;
 }
 
 .whatCanIDo-title {
@@ -108,25 +108,25 @@
   width: auto;
   margin: 0 auto;
   font-size: 18px;
-  border-bottom: 3px solid #2c2a46;
+  border-bottom: 3px solid #9fb3c8;
   display: inline-block;
 }
 
 .projects-container {
-  background-color: #2c2a46;
+  background-color: #243b53;
 }
 
 .projects-title {
   font-weight: bold;
   width: auto;
   margin: 0 auto;
-  font-size: 18px;
-  border-bottom: 3px solid #393653;
+  font-size: 25px;
+  border-bottom: 3px solid #9fb3c8;
   display: inline-block;
 }
 
 .projects-section {
-  background-color: #6511a54b;
+  background-color: #334e68;
   border-radius: 10px;
   color: #f7eeff;
   font-weight: 600;
@@ -149,12 +149,12 @@
   width: auto;
   margin: 0 auto;
   font-size: 18px;
-  border-bottom: 3px solid #393653;
+  border-bottom: 3px solid #9fb3c8;
   display: inline-block;
 }
 
 .footer {
-  background-color: #2c2a46;
+  background-color: #243b53;
 }
 
 .footer a {
@@ -171,12 +171,13 @@
   #root {
     font-size: 1.4em;
   }
+
   .WhoAmI-title {
     width: auto;
     margin: 0 auto;
     font-size: 25px;
     font-weight: bold;
-    border-bottom: 3px solid #393653;
+    border-bottom: 3px solid #9fb3c8;
     display: inline-block;
   }
   .introduction-text {
@@ -192,7 +193,7 @@
     height: 100px;
   }
   .tools-container {
-    background-color: #2c2a46;
+    background-color: #243b53;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
   }
@@ -201,20 +202,20 @@
     width: auto;
     margin: 0 auto;
     font-size: 25px;
-    border-bottom: 3px solid #393653;
+    border-bottom: 3px solid #9fb3c8;
     display: inline-block;
+  }
+  .projects-section {
+    font-size: 18px;
+    border-radius: 10px;
   }
   .whatCanIDo-title {
     font-weight: bold;
     width: auto;
     margin: 0 auto;
     font-size: 25px;
-    border-bottom: 3px solid #2c2a46;
+    border-bottom: 3px solid #9fb3c8;
     display: inline-block;
-  }
-
-  .project-box {
-    border-radius: 10px;
   }
 
   .skillsImg {

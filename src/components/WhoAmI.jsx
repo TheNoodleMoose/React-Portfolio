@@ -5,7 +5,7 @@ class WhoAmI extends Component {
     return (
       <div className="container container-whoAmI text-center">
         <div className="row">
-          <div className="col-12">
+          <div className="col-12 whoami-box">
             <div className="align-center">
               <p className="WhoAmI-title">Who Am I</p>
             </div>
