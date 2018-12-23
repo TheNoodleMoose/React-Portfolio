@@ -184,6 +184,10 @@
     margin-top: 10px;
     font-size: 2em;
   }
+  .container-whoAmI {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
   .mern-stack-img {
     width: auto;
     height: 300px;
@@ -204,6 +208,9 @@
     font-size: 25px;
     border-bottom: 3px solid #9fb3c8;
     display: inline-block;
+  }
+  .projects-container {
+    border-radius: 10px;
   }
   .projects-section {
     font-size: 18px;
