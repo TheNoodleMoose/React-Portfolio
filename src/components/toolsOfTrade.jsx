@@ -54,6 +54,11 @@ class ToolsOfTrade extends Component {
               src={require("../assets/images/babel.png")}
               alt=""
             />
+            <img
+              className="web-lang-img"
+              src={require("../assets/images/sass-logo.png")}
+              alt=""
+            />
           </div>
         </div>
       </div>

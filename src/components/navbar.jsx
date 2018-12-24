@@ -38,20 +38,25 @@ class Navbar extends Component {
                   <li className="nav-item">
                     <a
                       className="nav-link"
-                      onClick={this.scrollToAboutMe}
-                      href={"#"}
+                      href={"https://github.com/TheNoodleMoose"}
                     >
-                      About Me
-                      <span className="sr-only" />
+                      <img
+                        className="navBar-img"
+                        src={require("../assets/images/github.svg")}
+                      />
                     </a>
                   </li>
                   <li className="nav-item">
                     <a
                       className="nav-link"
-                      onClick={this.scrollToProjects}
-                      href={"#"}
+                      href={
+                        "https://www.linkedin.com/in/christian-huffman-5291ba165/"
+                      }
                     >
-                      | Projects
+                      <img
+                        className="navBar-img"
+                        src="https://img.icons8.com/color/48/000000/linkedin.png"
+                      />
                     </a>
                   </li>
                   <li className="nav-item">
@@ -60,7 +65,10 @@ class Navbar extends Component {
                       onClick={this.scrollToHireMe}
                       href={"#"}
                     >
-                      | Hire Me!
+                      <img
+                        className="navBar-img"
+                        src="https://img.icons8.com/color/48/000000/secured-letter.png"
+                      />
                     </a>
                   </li>
                 </ul>

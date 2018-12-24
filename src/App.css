@@ -18,6 +18,7 @@
   padding: 0 10px;
   width: 100%;
   white-space: nowrap;
+  height: auto;
 }
 
 .nav-link {
@@ -57,13 +58,7 @@
 }
 .headerNavbar {
   width: 100%;
-  border-bottom: 3px solid #9fb3c8;
-}
-.portfolio-border {
-  width: 85px;
-  height: 75px;
-  border-radius: 50%;
-  background-color: #9fb3c8;
+  border-top: 3px solid #9fb3c8;
 }
 
 .navbar-color {
@@ -170,6 +165,18 @@
 @media (min-width: 1024px) {
   #root {
     font-size: 1.4em;
+  }
+
+  .portfolio-img {
+    margin-left: 5px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+
+  .navBar-img {
+    width: 75px;
+    height: 75px;
   }
 
   .WhoAmI-title {

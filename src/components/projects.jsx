@@ -11,11 +11,7 @@ class Projects extends Component {
             </div>
             <p>For All My Projects Check Out My Github: </p>
             <a href="https://github.com/TheNoodleMoose" target="_blank">
-              <img
-                className="skillsImg"
-                src={require("../assets/images/github.png")}
-                alt=""
-              />
+              <img src={require("../assets/images/project-github.svg")} />
             </a>
             <p>Here Is One Of My Favorite Projects:</p>
             <div className="projects-section">
