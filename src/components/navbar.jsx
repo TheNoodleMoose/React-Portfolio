@@ -15,7 +15,7 @@ class Navbar extends Component {
 
   scrollToHireMe = () => {
     setTimeout(() => {
-      window.scrollTo(0, 2200);
+      window.scrollTo(0, 2500);
     }, 2);
   };
 
