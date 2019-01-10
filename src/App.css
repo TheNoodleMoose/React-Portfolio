@@ -58,7 +58,7 @@
 }
 .headerNavbar {
   width: 100%;
-  border-top: 3px solid #9fb3c8;
+  border-top: 3px solid rgb(240, 219, 79);
 }
 
 .navbar-color {
@@ -79,6 +79,13 @@
 .web-lang-img {
   width: auto;
   height: 50px;
+  margin: 0 5px;
+}
+
+.web-lang-img:hover {
+  width: auto;
+  height: 120px;
+  margin: 0 5px;
 }
 
 .tools-container {
@@ -119,6 +126,22 @@
   border-bottom: 3px solid #9fb3c8;
   display: inline-block;
 }
+.card {
+  border: none !important;
+}
+
+.project-card .btn-project {
+  margin: 10px;
+  background-color: rgb(240, 219, 79);
+  color: #102a43;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.project-card {
+  background-color: #334e68;
+  border: none;
+}
 
 .projects-section {
   background-color: #334e68;
@@ -127,11 +150,6 @@
   font-weight: 600;
   padding-bottom: 10px;
   margin-bottom: 10px;
-}
-
-.projects-section a {
-  text-decoration: none;
-  color: #f7eeff;
 }
 
 .markMeImage {
@@ -202,6 +220,7 @@
   .web-lang-img {
     width: auto;
     height: 100px;
+    margin: 0 10px;
   }
   .tools-container {
     background-color: #243b53;

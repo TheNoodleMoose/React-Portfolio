@@ -31,6 +31,11 @@ class ToolsOfTrade extends Component {
             />
             <img
               className="web-lang-img"
+              src={require("../assets/images/vue.png")}
+              alt=""
+            />
+            <img
+              className="web-lang-img"
               src={require("../assets/images/html5.png")}
               alt=""
             />

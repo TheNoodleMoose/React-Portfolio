@@ -13,62 +13,163 @@ class Projects extends Component {
             <a href="https://github.com/TheNoodleMoose" target="_blank">
               <img src={require("../assets/images/project-github.svg")} />
             </a>
-            <p>Here Is One Of My Favorite Projects:</p>
+            <p>Here is Some of My Work:</p>
             <div className="projects-section">
-              <p>
-                Mark Me |
-                <a
-                  href="https://github.com/TheNoodleMoose/MarkMe"
-                  target="_blank"
-                >
-                  Github
-                </a>
-                |
-                <a
-                  href="https://thenoodlemoose.github.io/MarkMe/"
-                  target="_blank"
-                >
-                  Live Site
-                </a>
-              </p>
-              <div className="projects-image">
+              <div class="card">
                 <img
-                  className="markMeImage"
-                  src={require("../assets/images/markMe.JPG")}
-                  alt=""
+                  src={require("../assets/images/TasteTourLoginPage.JPG")}
+                  class="card-img-top"
+                  alt="..."
                 />
+                <div class="card-body project-card">
+                  <h5 class="card-title">TasteTour</h5>
+                  <p class="card-text">
+                    Utilizing Vue.js, Express.js, Node.js, and Sequelize, Me and
+                    my team created a site where users can search for local food
+                    places in the city of their choice. We then dynamically
+                    create a generated route of the top 5 best restraunts
+                    meeting the users queries. We created MySQL Databases, with
+                    secure and encrypted user sign in and authentication. Our
+                    site then uses geolocation and geofencing to determine users
+                    position and distances from the restraunts. Taste Tour is
+                    your guide to hidden flavours without the headache. Explore
+                    new cuisine with personalised tours that don’t break the
+                    bank!
+                  </p>
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/vue.png")}
+                    alt=""
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/nodejslogo.png")}
+                    alt=""
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/JavaScript-logo.png")}
+                    alt=""
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/bootstrap-stack.png")}
+                    alt=""
+                  />
+                  <br />
+                  <a
+                    href="https://github.com/burkeri/Crawl"
+                    class="btn btn-project"
+                  >
+                    Go To Github Repo
+                  </a>
+                  <a
+                    href="https://glacial-harbor-18764.herokuapp.com/#/"
+                    class="btn btn-project"
+                  >
+                    Go To Live Site
+                  </a>
+                </div>
               </div>
-              <p>Tools Used</p>
-              <img
-                className="web-lang-img"
-                src={require("../assets/images/html5.png")}
-                alt=""
-              />
-              <img
-                className="web-lang-img"
-                src={require("../assets/images/bootstrap-stack.png")}
-                alt=""
-              />
-              <img
-                className="web-lang-img"
-                src={require("../assets/images/firebase-logo.png")}
-                alt=""
-              />
-              <p>
-                Using HTML5 Geolocation API, I created an app that tracks users
-                locations in realtime, stores it in a firebase database and
-                dynamically generates them on the map for others users to see. I
-                created Mark Me with the hopes to make locating and hanging out
-                with friends simpler and accessible to all. Whether you just
-                want to see where someone is at, to contacting them to go out
-                for lunch, Mark Me is the solution to these common, everyday
-                problems.
-              </p>
-              <h4>Achivements</h4>
-              <p>
-                Mark Me Won An Award For Best Use Of Tech From UCF Coding
-                Bootcamp
-              </p>
+              <br />
+              <div class="card">
+                <img
+                  src={require("../assets/images/markMe.JPG")}
+                  class="card-img-top"
+                  alt="..."
+                />
+                <div class="card-body project-card">
+                  <h5 class="card-title">MarkMe</h5>
+                  <p class="card-text">
+                    Using HTML5 Geolocation API, I created an app that tracks
+                    users locations in realtime, stores it in a firebase
+                    database and dynamically generates them on the map for
+                    others users to see. I created Mark Me with the hopes to
+                    make locating and hanging out with friends simpler and
+                    accessible to all. Whether you just want to see where
+                    someone is at, to contacting them to go out for lunch, Mark
+                    Me is the solution to these common, everyday problems.
+                  </p>
+                  <p>Tools Used</p>
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/html5.png")}
+                    alt=""
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/bootstrap-stack.png")}
+                    alt=""
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/firebase-logo.png")}
+                    alt=""
+                  />
+                  <br />
+                  <a
+                    href="https://github.com/TheNoodleMoose/MarkMe"
+                    class="btn btn-project"
+                  >
+                    Go To Github Repo
+                  </a>
+                  <a
+                    href="https://thenoodlemoose.github.io/MarkMe/"
+                    class="btn btn-project"
+                  >
+                    Go To Live Site
+                  </a>
+                </div>
+              </div>
+              <br />
+              <div class="card">
+                <img
+                  src={require("../assets/images/GiphyRecreated.JPG")}
+                  class="card-img-top"
+                  alt="..."
+                />
+                <div class="card-body project-card">
+                  <h5 class="card-title">Giphy Recreated</h5>
+                  <p class="card-text">
+                    Using The Giphy API, I tried to recreate the popular website
+                    known as Giphy.
+                  </p>
+                  <p>Tools Used</p>
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/html5.png")}
+                    alt=""
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/bootstrap-stack.png")}
+                    alt=""
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/nodejslogo.png")}
+                    alt=""
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/JavaScript-logo.png")}
+                    alt=""
+                  />
+                  <br />
+                  <a
+                    href="https://github.com/TheNoodleMoose/MarkMe"
+                    class="btn btn-project"
+                  >
+                    Go To Github Repo
+                  </a>
+                  <a
+                    href="https://thenoodlemoose.github.io/MarkMe/"
+                    class="btn btn-project"
+                  >
+                    Go To Live Site
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
         </div>
