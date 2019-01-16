@@ -10,11 +10,63 @@ class Projects extends Component {
               <p className="projects-title">Projects</p>
             </div>
             <p>For All My Projects Check Out My Github: </p>
-            <a href="https://github.com/TheNoodleMoose" target="_blank">
-              <img src={require("../assets/images/project-github.svg")} />
+            <a href="https://github.com/TheNoodleMoose">
+              <img
+                src={require("../assets/images/project-github.svg")}
+                alt={".."}
+              />
             </a>
             <p>Here is Some of My Work:</p>
             <div className="projects-section">
+              <div class="card">
+                <img
+                  src={require("../assets/images/moviefy.JPG")}
+                  class="card-img-top"
+                  alt="..."
+                />
+                <div class="card-body project-card">
+                  <h5 class="card-title">Moviefy</h5>
+                  <p class="card-text">
+                    Moviefy is a simple movie database site created fully in
+                    React.js. Utilizing The Movie Database API, I was able to
+                    create a fully searchable site for the movie of your choice.
+                    My main focus was to practice creating clean, reuseable, and
+                    scaleable components in React.
+                  </p>
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/react.png")}
+                    alt=""
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/nodejslogo.png")}
+                    alt=""
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/JavaScript-logo.png")}
+                    alt=""
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/styled-components.png")}
+                    alt=""
+                  />
+                  <br />
+                  <a
+                    href="https://github.com/TheNoodleMoose/Moviefy"
+                    class="btn btn-project">
+                    Go To Github Repo
+                  </a>
+                  <a
+                    href="https://thenoodlemoose.github.io/Moviefy/"
+                    class="btn btn-project">
+                    Go To Live Site
+                  </a>
+                </div>
+              </div>
+              <br />
               <div class="card">
                 <img
                   src={require("../assets/images/TasteTourLoginPage.JPG")}
@@ -59,14 +111,12 @@ class Projects extends Component {
                   <br />
                   <a
                     href="https://github.com/burkeri/Crawl"
-                    class="btn btn-project"
-                  >
+                    class="btn btn-project">
                     Go To Github Repo
                   </a>
                   <a
                     href="https://glacial-harbor-18764.herokuapp.com/#/"
-                    class="btn btn-project"
-                  >
+                    class="btn btn-project">
                     Go To Live Site
                   </a>
                 </div>
@@ -109,14 +159,12 @@ class Projects extends Component {
                   <br />
                   <a
                     href="https://github.com/TheNoodleMoose/MarkMe"
-                    class="btn btn-project"
-                  >
+                    class="btn btn-project">
                     Go To Github Repo
                   </a>
                   <a
                     href="https://thenoodlemoose.github.io/MarkMe/"
-                    class="btn btn-project"
-                  >
+                    class="btn btn-project">
                     Go To Live Site
                   </a>
                 </div>
@@ -158,14 +206,12 @@ class Projects extends Component {
                   <br />
                   <a
                     href="https://github.com/TheNoodleMoose/MarkMe"
-                    class="btn btn-project"
-                  >
+                    class="btn btn-project">
                     Go To Github Repo
                   </a>
                   <a
                     href="https://thenoodlemoose.github.io/MarkMe/"
-                    class="btn btn-project"
-                  >
+                    class="btn btn-project">
                     Go To Live Site
                   </a>
                 </div>

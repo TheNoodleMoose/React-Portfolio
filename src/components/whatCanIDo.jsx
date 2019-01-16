@@ -18,7 +18,7 @@ class WhatCanIDo extends Component {
                 src={require("../assets/images/internet.png")}
                 alt=""
               />
-              <p>
+              <p className="WhatCanIDoText">
                 My brain functions in a problem solving fashion. I can create
                 solutions to your most complicated web development needs!
               </p>
@@ -43,9 +43,9 @@ class WhatCanIDo extends Component {
                 src={require("../assets/images/responsive.png")}
                 alt=""
               />
-              <p>
-                I utilize React and Bootstrap to create modern looking and
-                responsive sites with user friendly UI and site layouts!
+              <p className="WhatCanIDoText">
+                I utilize React.js to create clean, scaleable, and reuseable
+                react components for UI and web application Development!
               </p>
             </div>
             <div className="align-center">
@@ -68,7 +68,7 @@ class WhatCanIDo extends Component {
                 src={require("../assets/images/database.png")}
                 alt=""
               />
-              <p>
+              <p className="WhatCanIDoText">
                 Utilizing the latest technologies, I can create full-stack web
                 applications to fit your needs. From static sites to
                 applications with databases and complex requirements, I can

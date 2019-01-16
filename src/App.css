@@ -23,12 +23,6 @@
   margin: 0 5px;
 }
 
-.web-lang-img:hover {
-  width: auto;
-  height: 120px;
-  margin: 0 5px;
-}
-
 /* NAVBAR */
 /*<======================================>*/
 .navbar-container {
@@ -269,6 +263,10 @@
     font-size: 25px;
     border-bottom: 3px solid rgb(240, 219, 79);
     display: inline-block;
+  }
+  .WhatCanIDoText {
+    font-weight: bold;
+    font-size: 30px;
   }
 
   .skillsImg {
