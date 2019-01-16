@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.2b123a4b.chunk.css",
-  "main.js": "/static/js/main.3d7ea707.chunk.js",
-  "main.js.map": "/static/js/main.3d7ea707.chunk.js.map",
+  "main.css": "/static/css/main.797062f8.chunk.css",
+  "main.js": "/static/js/main.fda3ae51.chunk.js",
+  "main.js.map": "/static/js/main.fda3ae51.chunk.js.map",
   "static/css/1.131f23c0.chunk.css": "/static/css/1.131f23c0.chunk.css",
   "static/js/1.888d45fb.chunk.js": "/static/js/1.888d45fb.chunk.js",
   "static/js/1.888d45fb.chunk.js.map": "/static/js/1.888d45fb.chunk.js.map",
@@ -22,9 +22,9 @@
   "static/media/markMe.JPG": "/static/media/markMe.94ae9b56.JPG",
   "static/media/firebase-logo.png": "/static/media/firebase-logo.bb5d30fe.png",
   "static/media/nodejslogo.png": "/static/media/nodejslogo.85458a67.png",
-  "static/css/main.2b123a4b.chunk.css.map": "/static/css/main.2b123a4b.chunk.css.map",
   "static/css/1.131f23c0.chunk.css.map": "/static/css/1.131f23c0.chunk.css.map",
+  "static/css/main.797062f8.chunk.css.map": "/static/css/main.797062f8.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.a3e0b8e248b216703e28d1e32f140e95.js": "/precache-manifest.a3e0b8e248b216703e28d1e32f140e95.js",
+  "precache-manifest.a438efedb945abc6d458bfb795bb7e2e.js": "/precache-manifest.a438efedb945abc6d458bfb795bb7e2e.js",
   "service-worker.js": "/service-worker.js"
 }
