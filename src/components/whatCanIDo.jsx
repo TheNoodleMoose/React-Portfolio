@@ -11,7 +11,7 @@ class WhatCanIDo extends Component {
             </div>
             <div className="align-center">
               <p className="whatCanIDo-title mt-3">Develop Whatever You Need</p>
-              <p className="whatCanIDo-title mb-2">And Solve Your Problem</p>
+              <p className="whatCanIDo-title mb-2"> And Solve Your Problem</p>
               <br />
               <img
                 className="skillsImg"
