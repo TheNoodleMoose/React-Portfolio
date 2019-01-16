@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Thasadith");
+
+/* GLOBAL */
+/*<======================================>*/
 .App {
   text-align: center;
 }
@@ -14,11 +17,40 @@
   width: 100%;
 }
 
+.web-lang-img {
+  width: auto;
+  height: 50px;
+  margin: 0 5px;
+}
+
+.web-lang-img:hover {
+  width: auto;
+  height: 120px;
+  margin: 0 5px;
+}
+
+/* NAVBAR */
+/*<======================================>*/
 .navbar-container {
   padding: 0 10px;
   width: 100%;
   white-space: nowrap;
   height: auto;
+}
+
+.navbar-color {
+  background-color: #102a43;
+  color: #9fb3c8;
+}
+.headerNavbar {
+  width: 100%;
+  border-top: 3px solid rgb(240, 219, 79);
+}
+.portfolio-img {
+  margin-left: 5px;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
 }
 
 .nav-link {
@@ -37,34 +69,8 @@
   font-size: 17px;
 }
 
-.container-whoAmI {
-  background-color: #243b53;
-}
-
-.WhoAmI-title {
-  width: auto;
-  margin: 0 auto;
-  font-size: 18px;
-  font-weight: bold;
-  border-bottom: 3px solid #9fb3c8;
-  display: inline-block;
-}
-
-.portfolio-img {
-  margin-left: 5px;
-  width: 75px;
-  height: 75px;
-  border-radius: 50%;
-}
-.headerNavbar {
-  width: 100%;
-  border-top: 3px solid rgb(240, 219, 79);
-}
-
-.navbar-color {
-  background-color: #102a43;
-  color: #9fb3c8;
-}
+/* INTRODUCTION SECTION */
+/*<======================================>*/
 
 .mern-stack-img {
   width: 100%;
@@ -76,18 +82,23 @@
   font-size: 1.4em;
 }
 
-.web-lang-img {
-  width: auto;
-  height: 50px;
-  margin: 0 5px;
+/* WHO AM I SECTION  */
+/*<======================================>*/
+.container-whoAmI {
+  background-color: #243b53;
 }
 
-.web-lang-img:hover {
+.WhoAmI-title {
   width: auto;
-  height: 120px;
-  margin: 0 5px;
+  margin: 0 auto;
+  font-size: 18px;
+  font-weight: bold;
+  border-bottom: 3px solid rgb(240, 219, 79);
+  display: inline-block;
 }
 
+/* TOOLS OF TRADE SECTION */
+/*<======================================>*/
 .tools-container {
   background-color: #243b53;
 }
@@ -97,10 +108,12 @@
   width: auto;
   margin: 0 auto;
   font-size: 18px;
-  border-bottom: 3px solid #9fb3c8;
+  border-bottom: 3px solid rgb(240, 219, 79);
   display: inline-block;
 }
 
+/* WHAT CAN I DO SECTION */
+/*<======================================>*/
 .whatCanIDo-container {
   background-color: #102a43;
 }
@@ -110,12 +123,23 @@
   width: auto;
   margin: 0 auto;
   font-size: 18px;
-  border-bottom: 3px solid #9fb3c8;
+  border-bottom: 3px solid rgb(240, 219, 79);
   display: inline-block;
 }
 
+/* PROJECTS SECTION */
+/*<======================================>*/
 .projects-container {
   background-color: #243b53;
+}
+
+.projects-section {
+  background-color: #334e68;
+  border-radius: 10px;
+  color: #d9e2ec;
+  font-weight: 600;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .projects-title {
@@ -123,9 +147,10 @@
   width: auto;
   margin: 0 auto;
   font-size: 25px;
-  border-bottom: 3px solid #9fb3c8;
+  border-bottom: 3px solid rgb(240, 219, 79);
   display: inline-block;
 }
+
 .card {
   border: none !important;
 }
@@ -143,29 +168,24 @@
   border: none;
 }
 
-.projects-section {
-  background-color: #334e68;
-  border-radius: 10px;
-  color: #d9e2ec;
-  font-weight: 600;
-  padding-bottom: 10px;
-  margin-bottom: 10px;
-}
-
 .markMeImage {
   width: 200px;
   height: 200px;
 }
 
+/* HIRE ME SECTION */
+/*<======================================>*/
 .hireMe-title {
   font-weight: bold;
   width: auto;
   margin: 0 auto;
   font-size: 18px;
-  border-bottom: 3px solid #9fb3c8;
+  border-bottom: 3px solid rgb(240, 219, 79);
   display: inline-block;
 }
 
+/* FOOTER  */
+/*<======================================>*/
 .footer {
   background-color: #243b53;
 }
@@ -202,7 +222,7 @@
     margin: 0 auto;
     font-size: 25px;
     font-weight: bold;
-    border-bottom: 3px solid #9fb3c8;
+    border-bottom: 3px solid rgb(240, 219, 79);
     display: inline-block;
   }
   .introduction-text {
@@ -232,7 +252,7 @@
     width: auto;
     margin: 0 auto;
     font-size: 25px;
-    border-bottom: 3px solid #9fb3c8;
+    border-bottom: 3px solid rgb(240, 219, 79);
     display: inline-block;
   }
   .projects-container {
@@ -247,7 +267,7 @@
     width: auto;
     margin: 0 auto;
     font-size: 25px;
-    border-bottom: 3px solid #9fb3c8;
+    border-bottom: 3px solid rgb(240, 219, 79);
     display: inline-block;
   }
 
