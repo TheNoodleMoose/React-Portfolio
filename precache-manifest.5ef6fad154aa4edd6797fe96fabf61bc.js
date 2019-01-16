@@ -4,24 +4,20 @@ self.__precacheManifest = [
     "url": "/static/media/mongodb-logo.3851cc04.png"
   },
   {
-    "revision": "fda3ae51946ccb6414e0",
-    "url": "/static/css/main.797062f8.chunk.css"
+    "revision": "1083aa6f832db5d374da",
+    "url": "/static/css/main.b0ae168a.chunk.css"
   },
   {
     "revision": "6d375fb188716e7bdc23f8ba951e25ce",
     "url": "/static/media/GiphyRecreated.6d375fb1.JPG"
   },
   {
-    "revision": "888d45fb4cc4a096b50b",
-    "url": "/static/js/1.888d45fb.chunk.js"
+    "revision": "081ac5818adfc4e0c414",
+    "url": "/static/js/1.081ac581.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
     "url": "/static/js/runtime~main.229c360f.js"
-  },
-  {
-    "revision": "7384412324c769e447d3c4f86e9ff068",
-    "url": "/static/media/bootstrap-stack.73844123.png"
   },
   {
     "revision": "85458a6717bed07d7db5146928d3cdd0",
@@ -32,6 +28,14 @@ self.__precacheManifest = [
     "url": "/static/media/JavaScript-logo.0cded3a3.png"
   },
   {
+    "revision": "7384412324c769e447d3c4f86e9ff068",
+    "url": "/static/media/bootstrap-stack.73844123.png"
+  },
+  {
+    "revision": "84d44aff3af7aab4ce4495c3de9c2e64",
+    "url": "/static/media/react.84d44aff.png"
+  },
+  {
     "revision": "e8cd7ff74126fc8f0171b98efacce492",
     "url": "/static/media/github.e8cd7ff7.svg"
   },
@@ -40,12 +44,8 @@ self.__precacheManifest = [
     "url": "/static/media/mern-stack.0c657800.png"
   },
   {
-    "revision": "fda3ae51946ccb6414e0",
-    "url": "/static/js/main.fda3ae51.chunk.js"
-  },
-  {
-    "revision": "84d44aff3af7aab4ce4495c3de9c2e64",
-    "url": "/static/media/react.84d44aff.png"
+    "revision": "1083aa6f832db5d374da",
+    "url": "/static/js/main.1083aa6f.chunk.js"
   },
   {
     "revision": "bc2328de1b4989deb7dfdc0e0fffc287",
@@ -64,6 +64,14 @@ self.__precacheManifest = [
     "url": "/static/media/project-github.9c7ce808.svg"
   },
   {
+    "revision": "102d28f8cd37424905247323601432d0",
+    "url": "/static/media/moviefy.102d28f8.JPG"
+  },
+  {
+    "revision": "581cb2071f3b6869862c627b843e721c",
+    "url": "/static/media/styled-components.581cb207.png"
+  },
+  {
     "revision": "8e1a0e9881c89e4b11763af5dbac2913",
     "url": "/static/media/TasteTourLoginPage.8e1a0e98.JPG"
   },
@@ -76,11 +84,11 @@ self.__precacheManifest = [
     "url": "/static/media/firebase-logo.bb5d30fe.png"
   },
   {
-    "revision": "888d45fb4cc4a096b50b",
-    "url": "/static/css/1.131f23c0.chunk.css"
+    "revision": "081ac5818adfc4e0c414",
+    "url": "/static/css/1.2f7d4e1d.chunk.css"
   },
   {
-    "revision": "f5b2918b6d0112eae4a9416b393da038",
+    "revision": "0dce249182195f8f928bfe423a5b310f",
     "url": "/index.html"
   }
 ];
