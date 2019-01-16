@@ -1,4 +1,4 @@
-# Welcome To My Personal Portfolio Site!
+# Welcome To My Personal Portfolio Site Repo!
 
 ![portfolio-image](https://github.com/TheNoodleMoose/React-Portfolio/blob/master/src/assets/images/portfolio-site.JPG)
 
