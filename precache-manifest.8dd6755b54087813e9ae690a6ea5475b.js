@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/mongodb-logo.3851cc04.png"
   },
   {
-    "revision": "1083aa6f832db5d374da",
+    "revision": "621a0b6677480585fc4a",
     "url": "/static/css/main.b0ae168a.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/static/media/mern-stack.0c657800.png"
   },
   {
-    "revision": "1083aa6f832db5d374da",
-    "url": "/static/js/main.1083aa6f.chunk.js"
+    "revision": "621a0b6677480585fc4a",
+    "url": "/static/js/main.621a0b66.chunk.js"
   },
   {
     "revision": "bc2328de1b4989deb7dfdc0e0fffc287",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.2f7d4e1d.chunk.css"
   },
   {
-    "revision": "0dce249182195f8f928bfe423a5b310f",
+    "revision": "e85b97e167b8112046de0583d2f63ddb",
     "url": "/index.html"
   }
 ];
