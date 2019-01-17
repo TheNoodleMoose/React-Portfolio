@@ -79,11 +79,11 @@ class Projects extends Component {
                     Utilizing Vue.js, Express.js, Node.js, and Sequelize, Me and
                     my team created a site where users can search for local food
                     places in the city of their choice. We then dynamically
-                    create a generated route of the top 5 best restraunts
+                    create a generated route of the top 5 best restaurants
                     meeting the users queries. We created MySQL Databases, with
                     secure and encrypted user sign in and authentication. Our
-                    site then uses geolocation and geofencing to determine users
-                    position and distances from the restraunts. Taste Tour is
+                    site then uses geolocation and geofencing to determine user's
+                    position and distances from the restaurants. Taste Tour is
                     your guide to hidden flavours without the headache. Explore
                     new cuisine with personalised tours that don’t break the
                     bank!
