@@ -18,15 +18,15 @@ class Projects extends Component {
             </a>
             <p>Here is Some of My Work:</p>
             <div className="projects-section">
-              <div class="card">
+              <div className="card">
                 <img
                   src={require("../assets/images/moviefy.JPG")}
-                  class="card-img-top"
+                  className="card-img-top"
                   alt="..."
                 />
-                <div class="card-body project-card">
-                  <h5 class="card-title">Moviefy</h5>
-                  <p class="card-text">
+                <div className="card-body project-card">
+                  <h5 className="card-title">Moviefy</h5>
+                  <p className="card-text">
                     Moviefy is a simple movie database site created fully in
                     React.js. Utilizing The Movie Database API, I was able to
                     create a fully searchable site for the movie of your choice.
@@ -56,26 +56,26 @@ class Projects extends Component {
                   <br />
                   <a
                     href="https://github.com/TheNoodleMoose/Moviefy"
-                    class="btn btn-project">
+                    className="btn btn-project">
                     Go To Github Repo
                   </a>
                   <a
                     href="https://thenoodlemoose.github.io/Moviefy/"
-                    class="btn btn-project">
+                    className="btn btn-project">
                     Go To Live Site
                   </a>
                 </div>
               </div>
               <br />
-              <div class="card">
+              <div className="card">
                 <img
                   src={require("../assets/images/TasteTourLoginPage.JPG")}
-                  class="card-img-top"
+                  className="card-img-top"
                   alt="..."
                 />
-                <div class="card-body project-card">
-                  <h5 class="card-title">TasteTour</h5>
-                  <p class="card-text">
+                <div className="card-body project-card">
+                  <h5 className="card-title">TasteTour</h5>
+                  <p className="card-text">
                     Utilizing Vue.js, Express.js, Node.js, and Sequelize, Me and
                     my team created a site where users can search for local food
                     places in the city of their choice. We then dynamically
@@ -111,26 +111,26 @@ class Projects extends Component {
                   <br />
                   <a
                     href="https://github.com/burkeri/Crawl"
-                    class="btn btn-project">
+                    className="btn btn-project">
                     Go To Github Repo
                   </a>
                   <a
                     href="https://glacial-harbor-18764.herokuapp.com/#/"
-                    class="btn btn-project">
+                    className="btn btn-project">
                     Go To Live Site
                   </a>
                 </div>
               </div>
               <br />
-              <div class="card">
+              <div className="card">
                 <img
                   src={require("../assets/images/markMe.JPG")}
-                  class="card-img-top"
+                  className="card-img-top"
                   alt="..."
                 />
-                <div class="card-body project-card">
-                  <h5 class="card-title">MarkMe</h5>
-                  <p class="card-text">
+                <div className="card-body project-card">
+                  <h5 className="card-title">MarkMe</h5>
+                  <p className="card-text">
                     Using HTML5 Geolocation API, I created an app that tracks
                     users locations in realtime, stores it in a firebase
                     database and dynamically generates them on the map for
@@ -164,26 +164,26 @@ class Projects extends Component {
                   <br />
                   <a
                     href="https://github.com/TheNoodleMoose/MarkMe"
-                    class="btn btn-project">
+                    className="btn btn-project">
                     Go To Github Repo
                   </a>
                   <a
                     href="https://thenoodlemoose.github.io/MarkMe/"
-                    class="btn btn-project">
+                    className="btn btn-project">
                     Go To Live Site
                   </a>
                 </div>
               </div>
               <br />
-              <div class="card">
+              <div className="card">
                 <img
                   src={require("../assets/images/React-matching-game.JPG")}
-                  class="card-img-top"
+                  className="card-img-top"
                   alt="..."
                 />
-                <div class="card-body project-card">
-                  <h5 class="card-title">Spongebob React Matching Game</h5>
-                  <p class="card-text">
+                <div className="card-body project-card">
+                  <h5 className="card-title">Spongebob React Matching Game</h5>
+                  <p className="card-text">
                     A React.js Spongebob themed memory match game. This project
                     focuses on managing state and changing state without
                     directly mutating the state. Can you remember all twelve of
@@ -208,12 +208,12 @@ class Projects extends Component {
                   <br />
                   <a
                     href="https://github.com/TheNoodleMoose/React-Memory-Match"
-                    class="btn btn-project">
+                    className="btn btn-project">
                     Go To Github Repo
                   </a>
                   <a
                     href="https://thenoodlemoose.github.io/React-Memory-Match/"
-                    class="btn btn-project">
+                    className="btn btn-project">
                     Go To Live Site
                   </a>
                 </div>

@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/mongodb-logo.3851cc04.png"
   },
   {
-    "revision": "621a0b6677480585fc4a",
+    "revision": "abede4a7a4155119fad9",
     "url": "/static/css/main.b0ae168a.chunk.css"
   },
   {
-    "revision": "6d375fb188716e7bdc23f8ba951e25ce",
-    "url": "/static/media/GiphyRecreated.6d375fb1.JPG"
+    "revision": "36f87984e7cfa8aaa6343635275ce1d8",
+    "url": "/static/media/React-matching-game.36f87984.JPG"
   },
   {
     "revision": "081ac5818adfc4e0c414",
@@ -20,20 +20,20 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "85458a6717bed07d7db5146928d3cdd0",
-    "url": "/static/media/nodejslogo.85458a67.png"
-  },
-  {
     "revision": "0cded3a3276425911d55a2552bf361bf",
     "url": "/static/media/JavaScript-logo.0cded3a3.png"
   },
   {
-    "revision": "7384412324c769e447d3c4f86e9ff068",
-    "url": "/static/media/bootstrap-stack.73844123.png"
+    "revision": "85458a6717bed07d7db5146928d3cdd0",
+    "url": "/static/media/nodejslogo.85458a67.png"
   },
   {
     "revision": "84d44aff3af7aab4ce4495c3de9c2e64",
     "url": "/static/media/react.84d44aff.png"
+  },
+  {
+    "revision": "7384412324c769e447d3c4f86e9ff068",
+    "url": "/static/media/bootstrap-stack.73844123.png"
   },
   {
     "revision": "e8cd7ff74126fc8f0171b98efacce492",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/static/media/mern-stack.0c657800.png"
   },
   {
-    "revision": "621a0b6677480585fc4a",
-    "url": "/static/js/main.621a0b66.chunk.js"
+    "revision": "abede4a7a4155119fad9",
+    "url": "/static/js/main.abede4a7.chunk.js"
   },
   {
     "revision": "bc2328de1b4989deb7dfdc0e0fffc287",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.2f7d4e1d.chunk.css"
   },
   {
-    "revision": "e85b97e167b8112046de0583d2f63ddb",
+    "revision": "f025d091f3c5ce6a338d05b4f1b70aca",
     "url": "/index.html"
   }
 ];
