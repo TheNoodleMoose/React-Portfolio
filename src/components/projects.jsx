@@ -82,11 +82,11 @@ class Projects extends Component {
                     create a generated route of the top 5 best restaurants
                     meeting the users queries. We created MySQL Databases, with
                     secure and encrypted user sign in and authentication. Our
-                    site then uses geolocation and geofencing to determine user's
-                    position and distances from the restaurants. Taste Tour is
-                    your guide to hidden flavours without the headache. Explore
-                    new cuisine with personalised tours that don’t break the
-                    bank!
+                    site then uses geolocation and geofencing to determine
+                    user's position and distances from the restaurants. Taste
+                    Tour is your guide to hidden flavours without the headache.
+                    Explore new cuisine with personalised tours that don’t break
+                    the bank!
                   </p>
                   <img
                     className="web-lang-img"
@@ -148,6 +148,11 @@ class Projects extends Component {
                   />
                   <img
                     className="web-lang-img"
+                    src={require("../assets/images/JavaScript-logo.png")}
+                    alt=""
+                  />
+                  <img
+                    className="web-lang-img"
                     src={require("../assets/images/bootstrap-stack.png")}
                     alt=""
                   />
@@ -172,25 +177,22 @@ class Projects extends Component {
               <br />
               <div class="card">
                 <img
-                  src={require("../assets/images/GiphyRecreated.JPG")}
+                  src={require("../assets/images/React-matching-game.JPG")}
                   class="card-img-top"
                   alt="..."
                 />
                 <div class="card-body project-card">
-                  <h5 class="card-title">Giphy Recreated</h5>
+                  <h5 class="card-title">Spongebob React Matching Game</h5>
                   <p class="card-text">
-                    Using The Giphy API, I tried to recreate the popular website
-                    known as Giphy.
+                    A React.js Spongebob themed memory match game. This project
+                    focuses on managing state and changing state without
+                    directly mutating the state. Can you remember all twelve of
+                    the different spongebobs?
                   </p>
                   <p>Tools Used</p>
                   <img
                     className="web-lang-img"
-                    src={require("../assets/images/html5.png")}
-                    alt=""
-                  />
-                  <img
-                    className="web-lang-img"
-                    src={require("../assets/images/bootstrap-stack.png")}
+                    src={require("../assets/images/react.png")}
                     alt=""
                   />
                   <img
@@ -205,12 +207,12 @@ class Projects extends Component {
                   />
                   <br />
                   <a
-                    href="https://github.com/TheNoodleMoose/MarkMe"
+                    href="https://github.com/TheNoodleMoose/React-Memory-Match"
                     class="btn btn-project">
                     Go To Github Repo
                   </a>
                   <a
-                    href="https://thenoodlemoose.github.io/MarkMe/"
+                    href="https://thenoodlemoose.github.io/React-Memory-Match/"
                     class="btn btn-project">
                     Go To Live Site
                   </a>
