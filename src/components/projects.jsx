@@ -30,8 +30,8 @@ class Projects extends Component {
                     Moviefy is a simple movie database site created fully in
                     React.js. Utilizing The Movie Database API, I was able to
                     create a fully searchable site for the movie of your choice.
-                    My main focus was to practice creating clean, reuseable, and
-                    scaleable components in React.
+                    My main focus was to practice creating clean, reusable, and
+                    scalable components in React.
                   </p>
                   <img
                     className="web-lang-img"
