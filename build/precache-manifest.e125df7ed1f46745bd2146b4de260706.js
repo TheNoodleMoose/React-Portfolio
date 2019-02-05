@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "017409e5a9ad6bf42632d492808ae49f",
-    "url": "/static/media/mern-stack.017409e5.png"
+    "revision": "528de635124c36131f13edec486f7468",
+    "url": "/static/media/certification.528de635.png"
   },
   {
-    "revision": "0a3a853710b143ea05be",
+    "revision": "a8d063dce36097a14ae4",
     "url": "/static/css/main.b0ae168a.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/github.e8cd7ff7.svg"
   },
   {
-    "revision": "0a3a853710b143ea05be",
-    "url": "/static/js/main.0a3a8537.chunk.js"
+    "revision": "a8d063dce36097a14ae4",
+    "url": "/static/js/main.a8d063dc.chunk.js"
   },
   {
     "revision": "0de7ce1e287ba46c58f8ec4a53aa82d4",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.2f7d4e1d.chunk.css"
   },
   {
-    "revision": "b4788cc56c3264ed89e13759e0d4ac28",
+    "revision": "9288649d93a53573d97d13eeed848a52",
     "url": "/index.html"
   }
 ];

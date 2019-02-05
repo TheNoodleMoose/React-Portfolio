@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.b0ae168a.chunk.css",
-  "main.js": "/static/js/main.0a3a8537.chunk.js",
-  "main.js.map": "/static/js/main.0a3a8537.chunk.js.map",
+  "main.js": "/static/js/main.a8d063dc.chunk.js",
+  "main.js.map": "/static/js/main.a8d063dc.chunk.js.map",
   "static/css/1.2f7d4e1d.chunk.css": "/static/css/1.2f7d4e1d.chunk.css",
   "static/js/1.081ac581.chunk.js": "/static/js/1.081ac581.chunk.js",
   "static/js/1.081ac581.chunk.js.map": "/static/js/1.081ac581.chunk.js.map",
@@ -10,7 +10,7 @@
   "static/media/JavaScript-logo.png": "/static/media/JavaScript-logo.0cded3a3.png",
   "static/media/bootstrap-stack.png": "/static/media/bootstrap-stack.c0120b17.png",
   "static/media/github.svg": "/static/media/github.e8cd7ff7.svg",
-  "static/media/mern-stack.png": "/static/media/mern-stack.017409e5.png",
+  "static/media/certification.png": "/static/media/certification.528de635.png",
   "static/media/css3.png": "/static/media/css3.0de7ce1e.png",
   "static/media/babel.png": "/static/media/babel.95d6fa40.png",
   "static/media/sass-logo.png": "/static/media/sass-logo.4fa16472.png",
@@ -20,9 +20,9 @@
   "static/media/markMe.JPG": "/static/media/markMe.22c7771e.JPG",
   "static/media/React-matching-game.JPG": "/static/media/React-matching-game.1fb58218.JPG",
   "static/media/react.png": "/static/media/react.5e38915c.png",
-  "static/css/1.2f7d4e1d.chunk.css.map": "/static/css/1.2f7d4e1d.chunk.css.map",
   "static/css/main.b0ae168a.chunk.css.map": "/static/css/main.b0ae168a.chunk.css.map",
+  "static/css/1.2f7d4e1d.chunk.css.map": "/static/css/1.2f7d4e1d.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.5af5d0ba7dfaef54ae302f325d8f622b.js": "/precache-manifest.5af5d0ba7dfaef54ae302f325d8f622b.js",
+  "precache-manifest.e125df7ed1f46745bd2146b4de260706.js": "/precache-manifest.e125df7ed1f46745bd2146b4de260706.js",
   "service-worker.js": "/service-worker.js"
 }
