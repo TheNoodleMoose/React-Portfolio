@@ -12,11 +12,16 @@ class Introduction extends Component {
               Full Stack Web Developer Specializing in the M.E.R.N Stack and
               Lover of All Things JavaScript.
             </p>
-            <img
-              className="mern-stack-img"
-              src={require("../assets/images/mern-stack.png")}
-              alt=""
-            />
+            <a
+              href="https://credly.com/credit/16274100"
+              target="_blank"
+              rel="noopener noreferrer">
+              <img
+                className="mern-stack-img"
+                src={require("../assets/images/certification.png")}
+                alt=""
+              />
+            </a>
           </div>
         </div>
       </div>
