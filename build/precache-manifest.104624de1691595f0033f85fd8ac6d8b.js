@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "017409e5a9ad6bf42632d492808ae49f",
-    "url": "/static/media/mern-stack.017409e5.png"
+    "revision": "0de7ce1e287ba46c58f8ec4a53aa82d4",
+    "url": "/static/media/css3.0de7ce1e.png"
   },
   {
-    "revision": "0a3a853710b143ea05be",
-    "url": "/static/css/main.b0ae168a.chunk.css"
+    "revision": "a89f95028fbef851052a",
+    "url": "/static/css/main.48cdfaed.chunk.css"
   },
   {
     "revision": "1fb5821846085250ebf3185c4c97c4b6",
     "url": "/static/media/React-matching-game.1fb58218.JPG"
   },
   {
-    "revision": "081ac5818adfc4e0c414",
-    "url": "/static/js/1.081ac581.chunk.js"
+    "revision": "f0102c091c300b5f9d71",
+    "url": "/static/js/1.f0102c09.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/static/media/github.e8cd7ff7.svg"
   },
   {
-    "revision": "0a3a853710b143ea05be",
-    "url": "/static/js/main.0a3a8537.chunk.js"
+    "revision": "017409e5a9ad6bf42632d492808ae49f",
+    "url": "/static/media/mern-stack.017409e5.png"
   },
   {
-    "revision": "0de7ce1e287ba46c58f8ec4a53aa82d4",
-    "url": "/static/media/css3.0de7ce1e.png"
+    "revision": "a89f95028fbef851052a",
+    "url": "/static/js/main.a89f9502.chunk.js"
   },
   {
     "revision": "95d6fa40a69d4cebb093d7a1280a2118",
@@ -56,6 +56,14 @@ self.__precacheManifest = [
     "url": "/static/media/project-github.9c7ce808.svg"
   },
   {
+    "revision": "39d837e1398f630a1ec6c17c7ef69187",
+    "url": "/static/media/coffeeCompanion.39d837e1.PNG"
+  },
+  {
+    "revision": "fbaa87b8ec097d6b64164ca6328bc915",
+    "url": "/static/media/sequelize.fbaa87b8.png"
+  },
+  {
     "revision": "2604876f1e35c02e32ff5b5f0ea3f3aa",
     "url": "/static/media/moviefy.2604876f.JPG"
   },
@@ -68,11 +76,11 @@ self.__precacheManifest = [
     "url": "/static/media/markMe.22c7771e.JPG"
   },
   {
-    "revision": "081ac5818adfc4e0c414",
-    "url": "/static/css/1.2f7d4e1d.chunk.css"
+    "revision": "f0102c091c300b5f9d71",
+    "url": "/static/css/1.f80f45d9.chunk.css"
   },
   {
-    "revision": "b4788cc56c3264ed89e13759e0d4ac28",
+    "revision": "f7727b519d695d6ce60e1a36cd9d2a55",
     "url": "/index.html"
   }
 ];
