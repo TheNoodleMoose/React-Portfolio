@@ -38,10 +38,12 @@ class Navbar extends Component {
                   <li className="nav-item">
                     <a
                       className="nav-link"
-                      href={"https://github.com/TheNoodleMoose"}>
+                      href={"https://github.com/TheNoodleMoose"}
+                    >
                       <img
                         className="navBar-img"
                         src={require("../assets/images/github.svg")}
+                        alt="github"
                       />
                     </a>
                   </li>
@@ -50,10 +52,12 @@ class Navbar extends Component {
                       className="nav-link"
                       href={
                         "https://www.linkedin.com/in/christian-huffman-5291ba165/"
-                      }>
+                      }
+                    >
                       <img
                         className="navBar-img"
                         src="https://img.icons8.com/color/48/000000/linkedin.png"
+                        alt="linkedin"
                       />
                     </a>
                   </li>
@@ -61,10 +65,12 @@ class Navbar extends Component {
                     <a
                       className="nav-link"
                       onClick={this.scrollToHireMe}
-                      href={"#"}>
+                      href={"#"}
+                    >
                       <img
                         className="navBar-img"
                         src="https://img.icons8.com/color/48/000000/secured-letter.png"
+                        alt="email"
                       />
                     </a>
                   </li>

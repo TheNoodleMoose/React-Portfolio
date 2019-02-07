@@ -27,7 +27,7 @@ class Footer extends Component {
                 <strong>About Me</strong>
               </p>
             </a>
-            <a href="https://github.com/TheNoodleMoose" target="_blank">
+            <a href="https://github.com/TheNoodleMoose">
               <p>
                 <strong>Github</strong>
               </p>

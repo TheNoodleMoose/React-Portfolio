@@ -17,6 +17,7 @@ class HireMe extends Component {
                 <a href="mailto:cjh605@gmail.com">
                   <img
                     src={"https://img.icons8.com/color/48/000000/gmail.png"}
+                    alt="email"
                   />
                 </a>
               </strong>

@@ -20,6 +20,69 @@ class Projects extends Component {
             <div className="projects-section">
               <div className="card">
                 <img
+                  style={{
+                    height: "800px"
+                  }}
+                  src={require("../assets/images/coffeeCompanion.PNG")}
+                  className="card-img-top"
+                  alt="..."
+                />
+                <div className="card-body project-card">
+                  <h5 className="card-title">Coffee Companion</h5>
+                  <p className="card-text">
+                    Coffee Companion aims to streamline the complex science of
+                    coffee for the average joe. Whether using the latest brewing
+                    technologies to just brewing with a Mr. Coffee, Coffee
+                    Companion will help you better understand what goes into
+                    making a better cup of coffee. Coffee Companion is a
+                    Full-Stack, React.js project utilizing custom-built user
+                    authentication with JSON Web Tokens. A focus for scalability
+                    and web accessibility were in mind when building this
+                    project.
+                  </p>
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/react.png")}
+                    alt="react"
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/nodejslogo.png")}
+                    alt="node"
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/JavaScript-logo.png")}
+                    alt="JavaScript"
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/styled-components.png")}
+                    alt="Styled Components"
+                  />
+                  <img
+                    className="web-lang-img"
+                    src={require("../assets/images/sequelize.png")}
+                    alt="Sequelize"
+                  />
+                  <br />
+                  <a
+                    href="https://github.com/TheNoodleMoose/CoffeeCompanion"
+                    className="btn btn-project"
+                  >
+                    Go To Github Repo
+                  </a>
+                  <a
+                    href="https://warm-lake-17843.herokuapp.com/"
+                    className="btn btn-project"
+                  >
+                    Go To Live Site
+                  </a>
+                </div>
+              </div>
+              <br />
+              <div className="card">
+                <img
                   src={require("../assets/images/moviefy.JPG")}
                   className="card-img-top"
                   alt="..."
@@ -56,12 +119,14 @@ class Projects extends Component {
                   <br />
                   <a
                     href="https://github.com/TheNoodleMoose/Moviefy"
-                    className="btn btn-project">
+                    className="btn btn-project"
+                  >
                     Go To Github Repo
                   </a>
                   <a
                     href="https://thenoodlemoose.github.io/Moviefy/"
-                    className="btn btn-project">
+                    className="btn btn-project"
+                  >
                     Go To Live Site
                   </a>
                 </div>
@@ -111,12 +176,14 @@ class Projects extends Component {
                   <br />
                   <a
                     href="https://github.com/burkeri/Crawl"
-                    className="btn btn-project">
+                    className="btn btn-project"
+                  >
                     Go To Github Repo
                   </a>
                   <a
                     href="https://glacial-harbor-18764.herokuapp.com/#/"
-                    className="btn btn-project">
+                    className="btn btn-project"
+                  >
                     Go To Live Site
                   </a>
                 </div>
@@ -164,12 +231,14 @@ class Projects extends Component {
                   <br />
                   <a
                     href="https://github.com/TheNoodleMoose/MarkMe"
-                    className="btn btn-project">
+                    className="btn btn-project"
+                  >
                     Go To Github Repo
                   </a>
                   <a
                     href="https://thenoodlemoose.github.io/MarkMe/"
-                    className="btn btn-project">
+                    className="btn btn-project"
+                  >
                     Go To Live Site
                   </a>
                 </div>
@@ -208,12 +277,14 @@ class Projects extends Component {
                   <br />
                   <a
                     href="https://github.com/TheNoodleMoose/React-Memory-Match"
-                    className="btn btn-project">
+                    className="btn btn-project"
+                  >
                     Go To Github Repo
                   </a>
                   <a
                     href="https://thenoodlemoose.github.io/React-Memory-Match/"
-                    className="btn btn-project">
+                    className="btn btn-project"
+                  >
                     Go To Live Site
                   </a>
                 </div>
