@@ -46,6 +46,22 @@ class Navbar extends Component {
                         alt="github"
                       />
                     </a>
+                    GitHub
+                  </li>
+                  <li className="nav-item">
+                    <a
+                      className="nav-link"
+                      href={
+                        "https://docs.google.com/document/d/1XNDXo-0UiosXcMtu6YRW6rEIWa2u9qHhitbZTANtW5o/edit?usp=sharing"
+                      }
+                    >
+                      <img
+                        className="navBar-img"
+                        src={require("../assets/images/resume.png")}
+                        alt="resume"
+                      />
+                    </a>
+                    Resume
                   </li>
                   <li className="nav-item">
                     <a
@@ -60,19 +76,17 @@ class Navbar extends Component {
                         alt="linkedin"
                       />
                     </a>
+                    LinkedIn
                   </li>
                   <li className="nav-item">
-                    <a
-                      className="nav-link"
-                      onClick={this.scrollToHireMe}
-                      href={"#"}
-                    >
+                    <a className="nav-link" href={"mailto:cjh605@gmail.com"}>
                       <img
                         className="navBar-img"
                         src="https://img.icons8.com/color/48/000000/secured-letter.png"
                         alt="email"
                       />
                     </a>
+                    Email Me
                   </li>
                 </ul>
               </nav>
